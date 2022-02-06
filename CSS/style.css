@@ -1,0 +1,34 @@
+body {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Recursive', sans-serif;
+  font-size: 4rem;
+  color: #1D48C0;
+  padding: 1%;
+}
+
+h2 {
+  text-align: center;
+  word-wrap: wrap;
+  font-family: 'Recursive', sans-serif;
+  font-size: 2rem;
+  padding: 2%;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  position: relative;
+  text-align: center;
+  margin-top: 2%;
+  height: 50px;
+}
+
+p {
+  font-family: 'Recursive', sans-serif;
+}
+/*# sourceMappingURL=style.css.map */

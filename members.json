@@ -1,0 +1,75 @@
+{
+    "members": [
+        {
+            "name": "Matt",
+            "tiktok": "matthewmyoung",
+            "twitter": "matthewmyoung1",
+            "youtube": "https://youtube.com/c/MatthewMYoung"
+        },
+        {
+            "name": "Rafal",
+            "tiktok": "_cs.rafal",
+            "twitter": "cs_rafal"
+        },
+        {
+            "name": "Justi",
+            "tiktok": "engineer.justi"
+        },
+        {
+            "name": "Hana",
+            "tiktok": "hanalytx",
+            "twitter": "hanalytx"
+        },
+        {
+            "name": "Marissa",
+            "tiktok": "cosmiczig",
+            "twitter": "cosmiczig"
+        },
+        {
+            "name": "Vincent",
+            "tiktok": "codewithvincent",
+            "youtube": "https://youtube.com/channel/UCfwSZMnpzluV01vjf8ujSwQ"
+        },
+        {
+            "name": "Josh",
+            "tiktok": "joshhenny",
+            "twitter": "HendrixJoshua"
+        },
+        {
+            "name": "Darrien",
+            "tiktok": "rushinglabs",
+            "twitter": "meddlin_dev",
+            "youtube": "https://youtube.com/channel/UCMbD6urmMQBUUxjjvyXgaxw"
+        },
+        {
+            "name": "Robert",
+            "tiktok": "devmakers",
+            "youtube": "https://youtube.com/channel/UCxpm3wl72alra2OSJBYMTQA"
+        },
+        {
+            "name": "Kody",
+            "tiktok": "tech_kody",
+            "twitter": "tech_kody",
+            "youtube": "https://youtube.com/channel/UCFohIV291UbmUcvJEfQeolg"
+        },
+        {
+            "name": "Thaier",
+            "tiktok": "halaltech_",
+            "twitter": "Halaltech_"
+        },
+        {
+            "name": "Katie",
+            "tiktok": "kt.dbs"
+        },
+        {
+            "name": "Jeremy",
+            "tiktok": "jeremy_codes",
+            "twitter": "j1228851"
+        },
+        {
+            "name": "Whittington",
+            "tiktok": "_whittington",
+            "twitter": "the_whittington"
+        }
+    ]
+}
